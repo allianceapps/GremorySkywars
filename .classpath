@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Brunno-CONTROLADO/Documents/skywarsteck/plugins/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brunno-CONTROLADO/Documents/skywarsteck/plugins/citizens-2.0.13-SNAPSHOT (3).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brunno-CONTROLADO/Documents/skywarsteck/plugins/Vault (4).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brunno-CONTROLADO/Documents/SkyPixell - SkyWars - Full configurado/spigot-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brunno-CONTROLADO/Downloads/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

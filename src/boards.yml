@@ -1,0 +1,55 @@
+boards_options:
+ minutesTopUpdate: 30
+armorstand_options:
+ style1:
+  - '&b&lANCESTRAL'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Kills'
+ style2:
+  - '&f&lIMPERIAL'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Kills'
+ style3:
+  - '&6&lLEGEND'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Kills'
+ style4:
+  - '&7&lMASTER'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Kills'
+ style5:
+  - '&3&lROOKIE'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Kills'
+armorstand_options_wins:
+ style1:
+  - '&b&lANCESTRAL'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Wins'
+ style2:
+  - '&f&lIMPERIAL'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Wins'
+ style3:
+  - '&6&lLEGEND'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Wins'
+ style4:
+  - '&7&lMASTER'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Wins'
+ style5:
+  - '&3&lROOKIE'
+  - ''
+  - '&e<nick>'
+  - '&6<status> &7Wins'
+boards: {}

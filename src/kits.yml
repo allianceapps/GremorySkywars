@@ -1,0 +1,50 @@
+#Warning: not delete the kit 'Default' is the default kit to this plugin!
+kits:
+ default:
+  name: 'Default'
+  icon: 'WOOD_PICKAXE : 1 : name=&aDefault : lore=&7Basic kit with tools.'
+  price: 0
+  mode: SOLO
+  rarity: COMMON
+  found: ALL
+  helmet: AIR
+  chestplate: AIR
+  leggings: AIR
+  boots: AIR
+  items:
+  - 'WOOD_PICKAXE : 1'
+  - 'WOOD_AXE : 1'
+  - 'WOOD_SPADE : 1'
+  effects: []
+ tdefault:
+  name: 'Default'
+  icon: 'WOOD_PICKAXE : 1 : name=&aDefault : lore=&7Basic kit with tools.'
+  price: 0
+  mode: TEAM
+  rarity: COMMON
+  found: ALL
+  helmet: AIR
+  chestplate: AIR
+  leggings: AIR
+  boots: AIR
+  items:
+  - 'WOOD_PICKAXE : 1'
+  - 'WOOD_AXE : 1'
+  - 'WOOD_SPADE : 1'
+  effects: []
+ mdefault:
+  name: 'Default'
+  icon: 'WOOD_PICKAXE : 1 : name=&aDefault : lore=&7Basic kit with tools.'
+  price: 0
+  mode: MEGA
+  rarity: COMMON
+  found: ALL
+  helmet: AIR
+  chestplate: AIR
+  leggings: AIR
+  boots: AIR
+  items:
+  - 'WOOD_PICKAXE : 1'
+  - 'WOOD_AXE : 1'
+  - 'WOOD_SPADE : 1'
+  effects: []

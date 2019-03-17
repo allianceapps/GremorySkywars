@@ -1,0 +1,13 @@
+authors: [GremoryDev]
+name: GremorySkywars
+version: 3.1.8
+main: com.gmail.gremorydev14.gremoryskywars.Main
+
+commands:
+ sw:
+  aliases: [skywars]
+ party:
+  aliases: [p]
+ swplayagain:
+ admin:
+  aliases: [adm]
